@@ -1,0 +1,8 @@
+samplezone.org. IN    SOA   dns.samplezone.org.  unlogic.samplezone.org.  (
+                                        20091118     ; Serial
+                                        5M     ; Refresh
+                                        2M    ; Retry
+                                        1D     ; Expiry
+                                        5M )   ; Minimum
+@                       IN      NS      dns.samplezone.org.	
+@                       IN      A       1.2.3.4
